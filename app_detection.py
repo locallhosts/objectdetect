@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-object_dir = os.path.abspath('objectdetect/')
+object_dir = os.path.abspath('objectdetect/appdetect/')
 
 # Load YOLOv3 configuration and weights
 config_path = os.path.join(object_dir, 'tensor', 'yolov3.cfg')
