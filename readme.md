@@ -32,7 +32,7 @@ You can also run this app inside a Docker container. To do so, you'll first need
 
 
 And then run the container:
-for bash run
+for bash run:
 **docker run --rm -it app_detection**
 
 
@@ -52,6 +52,8 @@ This is a simple Python application that uses the Tensorflow YOLOv3 algorithm fo
 
 This application was developed by **ISAIAH OBOH**
 
+
+download the full model here on my google drive This site was built using [Google drive](https://drive.google.com/drive/folders/10LPX0wnf68Lk16ngy1wOZ4d5JZD67OhT?usp=share_link). 
 
 
 
