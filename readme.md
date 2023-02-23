@@ -53,7 +53,7 @@ This is a simple Python application that uses the Tensorflow YOLOv3 algorithm fo
 This application was developed by **ISAIAH OBOH**
 
 
-download the full model here on my google drive This site was built using [Google drive](https://drive.google.com/drive/folders/10LPX0wnf68Lk16ngy1wOZ4d5JZD67OhT?usp=share_link). 
+download the full model here on my google drive This safe site [Google drive](https://drive.google.com/drive/folders/10LPX0wnf68Lk16ngy1wOZ4d5JZD67OhT?usp=share_link). 
 
 
 
